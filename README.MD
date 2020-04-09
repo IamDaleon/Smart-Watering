@@ -6,7 +6,7 @@ The Smart-Watering system would provide a live update display in Graphical repre
 
 This is all to be smart and also self sustainable by running off recycled water and a solar panel to reduce the carbon footprint of the device.
 
-![alt text](https://github.com/IamDaleon/Smart-Watering/blob/master/00D05EDB-AC81-439F-B112-9B1D2971AD21.jpeg)
+![alt text](https://github.com/IamDaleon/Smart-Watering/blob/master/imgs/00D05EDB-AC81-439F-B112-9B1D2971AD21.jpeg)
 
 ![alt text](https://github.com/IamDaleon/Smart-Watering/blob/master/imgs/28498624-0ED3-465E-A4CB-3450A8D82C30.jpeg)
 
